@@ -3,7 +3,7 @@
 </p>
 
 <h1>Install Software In a Linux Distrubution Lab 1 & 2</h1>
-This tutorial outlines the Google Cybersecuirty Lab 1 & 2 and a break down of how to install software in a linux distrubtion.<br />
+This tutorial outlines the Google Cybersecurity Lab 1 & 2 and a break down of how to install software in a Linux distributions.<br />
 
 
 <h2>Video Demonstration</h2>
